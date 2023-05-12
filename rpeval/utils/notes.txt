@@ -1,0 +1,10 @@
+### COLORS
+# orange = #f8a01f
+# green = #528272
+# black = #28272a
+# white = #ebebeb
+
+### FONTS
+# Eras Medium ITC
+# Eras Bold ITC
+# Eras Demi ITC
