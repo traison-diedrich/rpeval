@@ -15,7 +15,7 @@ The object tracking method to be used for the rpeval algorithm
 has also begun development but has not yet been integrated
 
 ### Athlete Select Page
-![Select Page](./assets/images/readme_assets/home_page.jpg)
+![Select Page](./assets/images/readme_assets/select_page.jpg)
 
 ### Home Page
 ![Home Page](./assets/images/readme_assets/home_page.jpg)
